@@ -21,13 +21,11 @@ Random Forest classifier predicting mechanical failure from sensor data, with de
 drawn from real PMCS inspection criteria. Tuned for recall, because a missed failure costs more
 than a false alarm.
 
-**[Remaining Useful Life Prediction](https://github.com/dannyjones-eng/rul-prediction-nasa-cmapss)**
-LSTM forecasting remaining operating cycles on NASA's C-MAPSS turbofan degradation dataset.
-Answers *when*, not just *whether*.
+### In progress
 
-**[Predictive Maintenance API](https://github.com/dannyjones-eng/predictive-maintenance-api)**
-Serverless deployment of the classifier — AWS Lambda, S3, API Gateway. Zero idle cost for a bursty
-inference workload.
+**Remaining Useful Life Prediction** — LSTM forecasting remaining operating cycles on NASA's C-MAPSS turbofan degradation dataset. Answers *when*, not just *whether*.
+
+**Predictive Maintenance API** — Serverless deployment of the classifier on AWS Lambda, S3, and API Gateway.
 
 ---
 
