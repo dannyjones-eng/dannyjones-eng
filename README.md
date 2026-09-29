@@ -5,7 +5,7 @@ U.S. Army veteran (Ret.) · 21 years in equipment maintenance and fleet operatio
 
 ---
 
-I spent two decades keeping military equipment running — 200+ vehicle fleets at 95% operational
+I spent two decades keeping military equipment running 200+ vehicle fleets at 95% operational
 readiness, PMCS programs, root-cause analysis, and SAP-based logistics systems. Now I build the
 software that does it with data instead of a calendar.
 
@@ -23,9 +23,9 @@ than a false alarm.
 
 ### In progress
 
-**Remaining Useful Life Prediction** — LSTM forecasting remaining operating cycles on NASA's C-MAPSS turbofan degradation dataset. Answers *when*, not just *whether*.
+**Remaining Useful Life Prediction** LSTM forecasting remaining operating cycles on NASA's C-MAPSS turbofan degradation dataset. Answers *when*, not just *whether*.
 
-**Predictive Maintenance API** — Serverless deployment of the classifier on AWS Lambda, S3, and API Gateway.
+**Predictive Maintenance API** Serverless deployment of the classifier on AWS Lambda, S3, and API Gateway.
 
 ---
 
