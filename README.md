@@ -1,6 +1,6 @@
 # Danny Jones
 
-**Software engineer — industrial & predictive maintenance systems**
+**Software engineer industrial & predictive maintenance systems**
 U.S. Army veteran (Ret.) · 21 years in equipment maintenance and fleet operations · B.S. Computer Science
 
 ---
